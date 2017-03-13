@@ -1,4 +1,4 @@
-/**asdds
+/**asds
  * 
  */
 package org.dimigo.basic;
