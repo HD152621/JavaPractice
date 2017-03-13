@@ -1,7 +1,7 @@
 
 package org.dimigo.basic;
 
-/**ㄹ
+/**
 * <pre>
 * org.dimigo.basic
 *	|_ Operator
