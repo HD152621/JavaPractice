@@ -20,33 +20,31 @@ import java.util.Scanner;
 public class Loop {
 	public static void main(String[] args) {
 		String[] cha = {"마법사", "영주", "기사", "농민"};
-		int strong = 0;
-		int a = new Random().nextInt(3) + 1;
+		int strong = 100;
+		
 		
 		
 		Scanner scanner = new Scanner(System.in);
 
 		int choice = 0;
 		boolean loop = true;
-		
 		while(loop)
 		{
-			
+			int a = new Random().nextInt(4);
 			System.out.println("-------------------");
 			System.out.println("<<게임메뉴>>");
 			System.out.println("1.공격력 증가");
 			System.out.println("2.공격력 감소");
 			System.out.println("3.캐릭터 설정");
 			System.out.println("9.종료");
-			
 			System.out.print("메뉴 입력 → ");
 			choice = scanner.nextInt();
 			switch(choice)
 			{
-				case 1 : strong++;
+				case 1 : strong+=10;
 						 System.out.println("공격력이 증가되었습니다. 현재 공격력 : "+ strong );
 						break;
-				case 2 : strong--;
+				case 2 : strong-=10;
 						 System.out.println("공격력이 감소되었습니다. 현재 공격력 : "+ strong );
 						break;
 				case 3 : System.out.println(cha[a]+ "(으)로 설정되었습니다." );
