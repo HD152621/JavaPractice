@@ -23,6 +23,7 @@ public class IdolGroup {
 			for(int j=0; j<arr2[i].length; j++){
 				System.out.println(arr2[i][j]);
 			}
+			System.out.println();
 		}
 	}
 	
