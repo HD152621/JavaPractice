@@ -1,5 +1,5 @@
 /**
- * 
+ *1 
  */
 package org.dimigo.abstractclass;
 

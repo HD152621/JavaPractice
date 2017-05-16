@@ -9,7 +9,7 @@ package org.dimigo.abstractclass;
 *	|_ SmartPhone
 * 
 * 1. 개요 : 
-* 2. 작성일 : 2017. 5. 16.
+* 21. 작성일 : 2017. 5. 16.
 *<pre>
 *
 *@author         : USER

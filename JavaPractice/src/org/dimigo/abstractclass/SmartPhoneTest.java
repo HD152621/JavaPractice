@@ -8,7 +8,7 @@ package org.dimigo.abstractclass;
 * org.dimigo.inheritance
 *	|_ SmartPhoneTest
 * 
-* 1. 개요 : 
+* 11. 개요 : 
 * 2. 작성일 : 2017. 5. 16.
 *<pre>
 *
