@@ -14,7 +14,7 @@ package org.dimigo.abstractclass;
 *
 *@author         : USER
 *@version        : 1.0
-*/
+**/
 public class SmartPhoneTest {
 	public static void main(String[] args){
 		SmartPhone[] phones = {

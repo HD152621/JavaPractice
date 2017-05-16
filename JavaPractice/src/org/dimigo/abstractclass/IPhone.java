@@ -14,7 +14,7 @@ package org.dimigo.abstractclass;
 *
 *@author         : USER
 *@version        : 1.0
-*/
+**/
 public class IPhone extends SmartPhone {
 public IPhone(){
 		

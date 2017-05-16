@@ -13,7 +13,7 @@ package org.dimigo.abstractclass;
 *<pre>
 *
 *@author         : USER
-*@version        : 1.0
+**@version        : 1.0
 */
 public abstract class SmartPhone {
 	private String model;
