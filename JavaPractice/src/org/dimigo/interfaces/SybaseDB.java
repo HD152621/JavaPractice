@@ -1,4 +1,4 @@
-/**
+/*e
  * 
  */
 package org.dimigo.interfaces;

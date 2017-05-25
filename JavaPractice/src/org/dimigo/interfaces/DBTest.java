@@ -13,7 +13,7 @@ package org.dimigo.interfaces;
 *<pre>
 *
 *@author         : USER
-*@version        : 1.0
+*e@version        : 1.0
 */
 public class DBTest {
 
